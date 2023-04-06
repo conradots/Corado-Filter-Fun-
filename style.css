@@ -1,0 +1,16 @@
+body {
+    background-color: blanchedalmond;
+}
+
+canvas {
+    height: 200px;
+    border: 1px solid lightgray;
+}
+
+input {
+    font-size: 14px;
+}
+
+#fdim {
+    margin-top: 0;
+}
